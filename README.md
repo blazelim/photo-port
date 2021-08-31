@@ -11,6 +11,7 @@ Advertise your photographical achievements with this photography based portfolio
 * [Questions](#questions)
 ## Usage
 Simply Navigate to the link below
+
 https://blazelim.github.io/photo-port/
 ## License
 This project is covered under the MIT license.
